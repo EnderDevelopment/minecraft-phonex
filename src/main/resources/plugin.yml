@@ -1,0 +1,10 @@
+name: PhonePlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A Minecraft plugin with a working phone and app store
+api-version: "1.21"
+commands:
+  phone:
+    description: Opens the phone interface
+    usage: /phone
